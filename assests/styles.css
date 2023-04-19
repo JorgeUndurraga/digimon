@@ -1,0 +1,11 @@
+table{
+    /* table-layout: fixed; */
+    white-space: nowrap;
+    overflow-x: auto;
+  }
+  
+  #miTablaPersonalizada th{
+    width: 8.125rem;
+    overflow: auto;
+    /* border: 1px solid; */
+  }

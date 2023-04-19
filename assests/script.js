@@ -19,7 +19,7 @@
                         <td>${index + 1}</td>
                         <td>${x.name}</td>
                         <td>${x.level}</td>
-                        <td><button class="btn btn-primary" onclick="functionMostrarModal('${x.img}', '${x.name}')" >Imagen </button></td>
+                        <td class="col text-center"><button class="btn btn-primary" onclick="functionMostrarModal('${x.img}', '${x.name}')" >Imagen </button></td>
                     </tr>
                 `;
           });
